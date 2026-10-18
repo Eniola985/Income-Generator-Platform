@@ -1,0 +1,6 @@
+{
+  "name": "Income Generator Platform",
+  "description": "A platform for building monetization-focused web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
